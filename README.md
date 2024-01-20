@@ -24,5 +24,5 @@ It is a native app developed in Kotlin, with the following technologies:
   <img align="center" width="200" src="https://github.com/amed991121/pivot-control/blob/master/screenshots/5.jpg">
   <img align="center" width="200" src="https://github.com/amed991121/pivot-control/blob/master/screenshots/6.jpg">
   <img align="center" width="200" src="https://github.com/amed991121/pivot-control/blob/master/screenshots/7.jpg">
-  img align="center" width="200" src="https://github.com/amed991121/pivot-control/blob/master/screenshots/8.jpg">
+  <img align="center" width="200" src="https://github.com/amed991121/pivot-control/blob/master/screenshots/8.jpg">
 </h3>
